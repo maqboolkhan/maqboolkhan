@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Nice to meet you! thanks for visiting. I am busy these days with alot of stuff. You can expect to hear from me soon.
+Till then happy exploring my repositories.
+
+Best
+
+![](https://komarev.com/ghpvc/?username=maqboolkhan&color=green&style=plastic)
 <!--
 **maqboolkhan/maqboolkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
