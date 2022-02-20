@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-Nice to meet you! thanks for visiting. I am busy these days with alot of stuff. You can expect to hear from me soon.
-Till then happy exploring my repositories.
+Nice to meet you! thanks for visiting. I am an NLP and ML enthusiast and busy these days with alot of stuff. You can expect to hear from me soon.
+Till then happy exploring my repositories, I believe they are helpful.
 
 Best
 
 ![](https://komarev.com/ghpvc/?username=maqboolkhan&color=green&style=plastic)
+
+<img src="https://github-readme-stats.vercel.app/api?username=maqboolkhan&show_icons=true&theme=gruvbox&hide_border=true&hide=stars">
+
+
 <!--
 **maqboolkhan/maqboolkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
