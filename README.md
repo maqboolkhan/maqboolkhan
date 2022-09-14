@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Nice to meet you! thanks for visiting. I am an NLP and ML enthusiast and busy these days with alot of stuff. You can expect to hear from me soon.
-Till then happy exploring my repositories, I believe they are helpful.
+Nice to meet you! thanks for visiting. I am ML and NLP enthusiast and busy these days with alot of stuff. I believe my repositories are helpful so happy exploring and feel free to send a pull request or discuss.
+Other than that, I am Data Engineer at GROPYUS Technologies, Berlin and there I am working with KGs ☺️ .
 
 Best
 
