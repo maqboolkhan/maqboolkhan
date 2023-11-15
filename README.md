@@ -7,9 +7,6 @@ Best
 
 ![](https://komarev.com/ghpvc/?username=maqboolkhan&color=green&style=plastic)
 
-<img src="https://github-readme-stats.vercel.app/api?username=maqboolkhan&show_icons=true&theme=gruvbox&hide_border=true&hide=stars">
-
-
 <!--
 **maqboolkhan/maqboolkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
