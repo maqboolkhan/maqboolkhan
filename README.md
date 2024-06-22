@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Nice to meet you! thanks for visiting. I am ML and NLP enthusiast and busy these days with alot of stuff. I believe my repositories are helpful so happy exploring and feel free to send a pull request or discuss.
-Other than that, I am Data Engineer at GROPYUS Technologies, Berlin and there I am working with KGs ☺️ .
+Other than that, I am Data Engineer at GROPYUS Technologies, Berlin and there I am working with KGs .
 
 Best
 
