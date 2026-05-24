@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-Nice to meet you! thanks for visiting. I am ML and NLP enthusiast and busy these days with alot of stuff. I believe my repositories are helpful so happy exploring and feel free to send a pull request or discuss.
-Other than that, I am Data Engineer at GROPYUS Technologies, Berlin and there I am working with KGs .
+Nice to meet you! thanks for visiting. I am ML and NLP enthusiast and busy these days with alot of stuff. 
+Specailly with founding a startup these days while residing at Merantix AI Campus, Berlin. 
+
+You can check out my online resume or portfolio here https://maqboolkhan.github.io
+
+I believe my repositories are helpful so happy exploring and feel free to send a pull request or discuss.
+
 
 Best
 
