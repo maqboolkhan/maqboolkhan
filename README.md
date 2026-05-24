@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Nice to meet you! thanks for visiting. I am ML and NLP enthusiast and busy these days with alot of stuff. 
-Specailly with founding a startup these days while residing at Merantix AI Campus, Berlin. 
+Specailly with founding an startup these days while residing at Merantix AI Campus, Berlin. 
 
 You can check out my online resume or portfolio here https://maqboolkhan.github.io
 
